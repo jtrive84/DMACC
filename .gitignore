@@ -1,0 +1,11 @@
+*.html
+*.tex
+.vscode
+.vscode/
+./.vscode
+DAT303/Reference
+DAT303/Reference/
+DAT303/Reference/
+.ipynb_checkpoints
+./.ipynb_checkpoints
+.ipynb_checkpoints/
